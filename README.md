@@ -1,1 +1,1 @@
-photoeditor
+A small photo manipulating program I made to help with a friend's art project. It uses mergesort to sort every pixel in a photo and then creates an output file of every pixel in order either by placing them row by row or by using either a DFS or BFS function to place them. 
